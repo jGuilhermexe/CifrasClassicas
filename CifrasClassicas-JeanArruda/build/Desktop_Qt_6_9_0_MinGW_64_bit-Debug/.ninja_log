@@ -1,0 +1,51 @@
+# ninja log v6
+66	329	7724867449928611	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+751	3712	7713677140512944	CMakeFiles/CifrasClassicas-JeanArruda.dir/main.cpp.obj	529875f92eedcf95
+66	329	7724867449928611	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+66	329	7724867449928611	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+66	329	7724867449928611	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+748	3715	7713677140480658	CMakeFiles/CifrasClassicas-JeanArruda.dir/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp.obj	f74ed1584738bc4a
+5071	5824	7724867499964548	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
+330	5070	7724867452555385	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+40	237	7724868686316169	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+40	237	7724868686316169	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+40	237	7724868686316169	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+40	237	7724868686316169	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+238	4883	7724868688299657	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+4883	5310	7724868734749191	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
+16	260	7724869163778692	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+16	260	7724869163778692	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+16	260	7724869163778692	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+16	260	7724869163778692	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+261	4589	7724869166222267	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+4590	5003	7724869209512512	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
+16	192	7724871807718883	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+16	192	7724871807718883	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+16	192	7724871807718883	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+16	192	7724871807718883	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+193	4650	7724871809483371	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+4650	5071	7724871854053356	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
+18	235	7724877614292441	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+18	235	7724877614292441	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+18	235	7724877614292441	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+18	235	7724877614292441	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+236	5222	7724877616445332	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+5222	5649	7724877666305177	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
+22	301	7724897132633206	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+22	301	7724897132633206	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+22	301	7724897132633206	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+22	301	7724897132633206	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+302	4548	7724897135437501	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+4548	4954	7724897177889516	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
+17	203	7724905045729666	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+17	203	7724905045729666	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+17	203	7724905045729666	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+17	203	7724905045729666	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+204	4490	7724905047603524	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+4490	4990	7724905090460740	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
+16	190	7724909345987672	CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+16	190	7724909345987672	CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+16	190	7724909345987672	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/timestamp	d615ade419b7d37b
+16	190	7724909345987672	C:/Programando em C++/CifrasClassicas-JeanArruda/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CifrasClassicas-JeanArruda_autogen/mocs_compilation.cpp	d615ade419b7d37b
+192	4236	7724909347732304	CMakeFiles/CifrasClassicas-JeanArruda.dir/mainwindow.cpp.obj	5b9d3432b04ed1b1
+4237	4624	7724909388187072	CifrasClassicas-JeanArruda.exe	6a4cf46b3eee45ca
